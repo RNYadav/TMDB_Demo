@@ -1,5 +1,5 @@
-# ProfileSelector
-this is the demo project to fetch the popular movies from themoviedb API's
+# TMDB Demo
+This is the demo project to fetch the popular movies from themoviedb API's
 
 ## Objective
 Build an app using the themoviedb API's to show popular movies currently. The app should display posters of top 10 movies. When user selects a movie from
