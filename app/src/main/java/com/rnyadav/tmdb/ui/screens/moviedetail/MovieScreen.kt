@@ -160,9 +160,7 @@ fun MovieScreen(
                     TopAppBar(
                         navigationIcon = {
                             IconButton(onClick = {
-                                navController.navigate("home") {
-                                    popUpToRoute
-                                }
+                                navController.navigateUp()
                             }) {
                                 Icon(
                                     imageVector = Icons.Filled.ArrowBack,

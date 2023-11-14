@@ -1,7 +1,5 @@
 package com.rnyadav.tmdb
 
-import androidx.compose.runtime.currentRecomposeScope
-import androidx.compose.runtime.rememberCoroutineScope
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.rnyadav.tmdb.data.model.Movie

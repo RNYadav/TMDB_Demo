@@ -9,7 +9,6 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.rnyadav.tmdb.data.model.Movie
 import com.rnyadav.tmdb.data.network.Resource
 import com.rnyadav.tmdb.ui.common.FullScreenProgressbar
 import com.rnyadav.tmdb.ui.common.toast
